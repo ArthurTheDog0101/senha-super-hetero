@@ -1,0 +1,17 @@
+:root{
+    --branco: white;
+    --cor-de-fundo: #18406b;
+    --fundo-senha: #00244D;
+    --fundo-texto: #001E40;
+    --borda: #0075FF;
+    .jacquard-12-regular {
+        Jacquard: : "Jacquard 12", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+}
