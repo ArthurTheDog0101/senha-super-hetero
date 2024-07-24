@@ -75,7 +75,7 @@ body{
 }
 
 
-.parametro-senha-botoes{
+.parametro-senha__botao{
     display: flex;
     justify-content: center;
 }
