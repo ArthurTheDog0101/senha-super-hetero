@@ -8,7 +8,7 @@ botoes[0].onclick = diminuiTamanho;
 
 console.log(botoes)
 function aumentaTamanho(){
-    if (tamanhoSenha < 20){
+    if (tamanhoSenha < 1){
          tamanhoSenha = tamanhoSenha+1;
        tamanhoSenha++;
     }
