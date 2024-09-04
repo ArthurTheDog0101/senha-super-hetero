@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 :root{
-    --cor-de-fundo: #00a2fff3 ;
-    --cor-de-texto: #000000;
+    --cor-de-fundo: #000000f3 ;
+    --cor-de-texto: #ffffff;
     --fundo-senha: #ff0000;
-    --borda: #00ff62f3;
+    --borda: #0036ccf3;
 
 }
 
