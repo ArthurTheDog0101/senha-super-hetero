@@ -1,3 +1,5 @@
+
+
 .conteudo-titulo{
     text-align: center;
     margin-top: 80px;
@@ -58,4 +60,9 @@
     .parametro-coluna__senha{
         flex-direction: row;
     }
+}
+
+.parametro-senha{
+    width: 50%;
+    margin: 0 auto;
 }
